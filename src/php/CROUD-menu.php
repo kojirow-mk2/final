@@ -1,5 +1,3 @@
-<!-- CROUD-menu.php -->
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
