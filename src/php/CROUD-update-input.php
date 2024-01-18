@@ -18,4 +18,5 @@ foreach ($pdo->query('select * from Game') as $row) {
     echo '</form>';
     echo "\n";
 }
+    echo '<a href="../html/index.html">メニューに戻る</a>';
 ?>
