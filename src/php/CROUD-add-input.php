@@ -10,5 +10,6 @@
             <p>カテゴリー<input type = "text" name = "category"></p>
             <p><input type = "submit" value = "追加"></p>
     </form>
+            <a href="../html/index.html">メニューに戻る</a>
     </body>
 </html>

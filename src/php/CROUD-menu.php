@@ -10,7 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             header("Location: CROUD-add-input.php"); // 登録ページへリダイレクト
             break;
         case "update":
-            header("Location: CROUD-update.php"); // 更新ページへリダイレクト
+            header("Location: CROUD-update-input.php"); // 更新ページへリダイレクト
             break;
         case "delete":
             header("Location: CROUD-delete.php"); // 削除ページへリダイレクト
